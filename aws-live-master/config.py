@@ -1,0 +1,6 @@
+customhost = "employee.cppxmpceraf2.ap-south-1.rds.amazonaws.com"
+customuser = "om"
+custompass = "9371406210om"
+customdb = "employee"
+custombucket = "omemployee"
+customregion = "ap-south-1"
